@@ -1,7 +1,7 @@
 Đá gà trực tiếp . love – cổng game đá gà trực tiếp online hàng đầu tại Việt Nam.
 ===================================
 
-`Đá gà trực tiếp.love <https://dagatructiep.love/>`_ – cổng game đá gà trực tiếp online hàng đầu tại Việt Nam. Đá gà trực tiếp cung cấp trải nghiệm cá cược chất lượng với công nghệ phát trực tiếp tiên tiến, đảm bảo sự an toàn và công bằng. Ngoài ra, tại dagatructiep.love bạn có thể thử sức cá cược cùng các trò chơi như: game bài casino, bắn cá, tài xỉu, quay hủ, pocker...
+`Đá gà trực tiếp love <https://dagatructiep.love/>`_ – cổng game đá gà trực tiếp online hàng đầu tại Việt Nam. Đá gà trực tiếp cung cấp trải nghiệm cá cược chất lượng với công nghệ phát trực tiếp tiên tiến, đảm bảo sự an toàn và công bằng. Ngoài ra, tại dagatructiep.love bạn có thể thử sức cá cược cùng các trò chơi như: game bài casino, bắn cá, tài xỉu, quay hủ, pocker...
 
 Thông tin liên hệ: 
 
