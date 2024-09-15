@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Đá gà trực tiếp . love – cổng game đá gà trực tiếp online hàng đầu tại Việt Nam.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Đá gà trực tiếp.love <https://dagatructiep.love/>`_ – cổng game đá gà trực tiếp online hàng đầu tại Việt Nam. Đá gà trực tiếp cung cấp trải nghiệm cá cược chất lượng với công nghệ phát trực tiếp tiên tiến, đảm bảo sự an toàn và công bằng. Ngoài ra, tại dagatructiep.love bạn có thể thử sức cá cược cùng các trò chơi như: game bài casino, bắn cá, tài xỉu, quay hủ, pocker...
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Cổng Game Đá Gà Trực Tiếp Online
 
-   This project is under active development.
+Địa chỉ: 180 Nguyễn Lương Bằng, Chợ Dừa, Đống Đa, Hà Nội
 
-Contents
---------
+Website: https://dagatructiep.love/
 
-.. toctree::
+Email: dagatructiep@support.com
 
-   usage
-   api
+Hotline: +84 919001888
+
+#dagatructiep #dangkydagatructiep #cacuocdaga #dagaonline #dagathomo
